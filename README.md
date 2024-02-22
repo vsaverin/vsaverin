@@ -70,7 +70,11 @@ I'm a passionate Python developer with over 4 years of experience in classic bac
 
 ## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsaverin&hide_progress=false&theme=dark)
-![Vsaverin GitHub stats](https://github-readme-stats.vercel.app/api?username=vsaverin&theme=dark&hide=contribs,prs)
+
+## 👨‍💻 Repo's
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vsaverin&repo=cryptronics&theme=dark)](https://github.com/vsaverin/cryptronics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vsaverin&repo=checkers_parser&theme=dark)](https://github.com/vsaverin/checkers_parser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vsaverin&repo=coinslib&theme=dark)](https://github.com/vsaverin/coinslib)
 
 
 ## 🌐 Connect with Me
