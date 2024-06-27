@@ -12,6 +12,9 @@ I'm a passionate Python developer with over 4 years of experience in classic bac
 **Reach out to me as soon as possible! :)**
 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vsaverin&theme=tokyonight" alt="mystreak"/>
+
+
 ## 🔧 Technologies & Tools
 
 ### 🧰 Version Control
@@ -66,10 +69,6 @@ I'm a passionate Python developer with over 4 years of experience in classic bac
     <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="35">
     <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="Google Cloud" width="35">
 </div>
-
-
-## 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsaverin&hide_progress=false&theme=dark)
 
 ## 👨‍💻 Interesting repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vsaverin&repo=cryptronics&theme=dark)](https://github.com/vsaverin/cryptronics)
