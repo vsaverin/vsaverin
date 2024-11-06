@@ -82,8 +82,6 @@ I enjoy building robust and scalable solutions that make a positive impact. My j
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/vasiliy-terpigorev-38a24b256/)
-- [Instagram](https://instagram.com/vsaverin)
-- [Personal Website](https://terpigorev.com)
 - [UpWork](https://www.upwork.com/freelancers/~01d488d682b26fdf66)
 
 
