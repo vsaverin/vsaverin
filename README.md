@@ -2,7 +2,9 @@
 
 ## About Me
 
-I'm a passionate Python developer with over 4 years of experience in classic backend and web3 development. I enjoy building robust and scalable solutions that make a positive impact. My journey in the world of coding has been exciting, and I'm always eager to learn and explore new technologies.
+I'm Experienced Python Developer & High-Load Web-Services Expert, developing high-load services/microservices and scripts on Python for 5+ years. 
+
+I enjoy building robust and scalable solutions that make a positive impact. My journey in the world of coding has been exciting, and I'm always eager to learn and explore new technologies.
 
 ### If you need: 
 - High-performance Python code for your project 
