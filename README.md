@@ -86,3 +86,6 @@ I enjoy building robust and scalable solutions that make a positive impact. My j
 
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to say hi! 😊
+
+
+![vasiliy_python GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=vsaverin&gitlabUsername=vasiliy_python)
